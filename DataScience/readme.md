@@ -1,22 +1,22 @@
 # Aufgabe
-It is a Coding Challenge for the Data Science Field. You can use one of them and Information in parentheses must not be communicated to candidates.
+It is a Coding Challenge for the Data Science Field. You can use one of them.
 
 ## House prices
 How can you find your dream house in America and which elements influence the house price?  
 
 * Task (Medium): Analyse the data and find correlations. 
-(List of Analysis, Outliers, Nan value handle, Frequencies, interpretation of correlation etc. The list should not be given to candidate). 
-* Task (Medium): Feature engineering
-* Task (Challenging): predict house quality using proper variables (to try different models would be bonus when we evaluate.)
-* Task (Challenging): optimize the model (Hyperparameter tuning and fine tuning)
+* Task (Medium): Feature engineering.
+* Task (Challenging): predict house quality using proper variables.
+* Task (Challenging): optimize the model.
 * Task (Very Challenging): Use more features, maybe even add external data, for house quality prediction
 
 ## Job Prediction
 How can you find a job using a given data?
 
-* Task (Easy): Analyse the data correlations (List of Analysis, Outliers, Nan value handle, Frequencies, interpretation of correlation etc. The list should not be given to candidate)
-* Task (Medium): predict a job using proper variables (to try different models would be bonus when we evaluate.)
-* Task (Challenging): optimize the model (Hyperparameter tuning and fine tuning)
+* Task (Easy): Analyse the data and find correlations.
+* Task (Medium): predict a job using proper variables.
+* Task (Challenging): optimize the model.
+
 
 ## Bewertungskriterien
 |                        	| 1 	| 2 	| 3 	| 4 	| 5 	|
