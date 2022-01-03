@@ -1,4 +1,4 @@
-# Aufgabe
+# Coding Challenge
 It is a Coding Challenge for the Data Science Field. You can use one of them.
 
 ## House prices
